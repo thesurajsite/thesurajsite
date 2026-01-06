@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suraj Verma</h1>
-<h3 align="center">Android Developer | Kotlin Enthusiast | Tech Explorer</h3>
+<h3 align="center">Android Developer | Kotlin Enthusiast | An Awesome Android Developer</h3>
 
 ---
 
@@ -7,8 +7,8 @@
 
 - 🔭 Currently building **Android apps using Kotlin & Jetpack Compose**
 - 🌱 Learning **Backend with Golang & Docker**
-- 💡 Interested in **Clean Architecture and Scalable Mobile Apps**
-- 📫 Reach me at: your-email@example.com
+- 💡 Exploring **Kotlin Multiplatform (KMP)**
+- 📫 Reach me at: surajsays108@zohomail.in
 
 ---
 
@@ -16,11 +16,11 @@
 
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45"/>
+<img src="https://cdn-icons-png.flaticon.com/512/9704/9704800.png" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45"/>
 </p>
+
 
 ---
 
@@ -28,10 +28,20 @@
 
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="45" height="45"/>
+<!-- Retrofit -->
+<img src="https://velog.velcdn.com/images/heymoko/post/f806cc2f-45b0-4f92-8d00-cbb28a7204e6/image.png" width="45" height="45"/>
+<!-- Jetpack Compose -->
+<img src="https://miro.medium.com/1*AYW0kcLCdQYNZUtbiLBqvA.png" width="45" height="45"/>
+<!-- Kotlin Multiplatform -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" width="45" height="45"/>
 </p>
+
+
+
+
+
 
 ---
 
@@ -39,12 +49,18 @@
 
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45"/>
+
+<!-- White GitHub icon -->
+<img src="https://img.icons8.com/ios_filled/512/FFFFFF/github.png" width="45" height="45"/>
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45" height="45"/>
+<img src="https://cdn-icons-png.flaticon.com/512/300/300218.png" width="45" height="45"/>
+
 </p>
+
 
 ---
 
