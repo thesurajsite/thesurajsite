@@ -1,5 +1,29 @@
-<h1 align="center">Hi 👋, I'm Suraj Verma</h1>
 <h3 align="center">Android Developer | Kotlin Enthusiast | An Awesome Android Developer</h3>
+
+<p align="center" style="display: flex; justify-content: center; gap: 8px; flex-wrap: nowrap;">
+
+<!-- Resume -->
+<a href="https://drive.google.com/file/d/1t08syGfxvzcXgDwKjED0u5fc3Mn1pQI7/view?usp=sharing" target="_blank">
+<img src="https://img.shields.io/badge/Resume-DC143C?logo=adobeacrobatreader&logoColor=white&style=for-the-badge"/>
+</a>
+
+<!-- LinkedIn -->
+<a href="https://linkedin.com/in/thesurajsite" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"/>
+</a>
+
+<!-- Instagram -->
+<a href="https://www.instagram.com/theburninsun" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge"/>
+</a>
+
+<!-- X -->
+<a href="https://x.com/AndroidDevSuraj" target="_blank">
+<img src="https://img.shields.io/badge/X (Twitter)-000000?logo=x&logoColor=white&style=for-the-badge"/>
+</a>
+
+</p>
+
 
 ---
 
