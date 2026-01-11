@@ -99,21 +99,13 @@
 
 ## 📂 Projects
 
-### 📌 College Tracker App
-Android app to track attendance, tasks and schedule  
-👉 **[Repo Link](https://github.com/YOUR-USERNAME/YOUR-REPO)**
+### 📌 PotHole Tracker: Google Maps & Camera  
+Android app using **Google Maps API + Camera** to search places, get directions, and capture photos during travel. It highlights the **completed route (Green)** and **remaining route (Blue)** for easier navigation.  
 
-### 📌 XtraContacts
-Cloud-based contacts app with deep links & Firebase  
-👉 **[Repo Link](https://github.com/YOUR-USERNAME/YOUR-REPO)**
+🎥 **Video Explanation:** [Link](https://www.linkedin.com/posts/thesurajsite_androiddevelopment-googlemapsapi-potholetracker-activity-7354080849325182976-FLB_?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD83ZU8BkjlW4U0Y7NAOgrPsPEpM7_xOF3o)  
+💻 **Repository Link:** [Link](https://github.com/thesurajsite/PotHoleTracker-GMaps-Camera)
 
-### 📌 Weather App (Python)
-Fetches live weather using OpenWeather API  
-👉 **[Repo Link](https://github.com/YOUR-USERNAME/YOUR-REPO)**
 
-### 📌 QR Code Generator (Python)
-Generates QR codes for links & text  
-👉 **[Repo Link](https://github.com/YOUR-USERNAME/YOUR-REPO)**
 
 ---
 
