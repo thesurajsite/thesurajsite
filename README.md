@@ -105,6 +105,14 @@ Android app using **Google Maps API + Camera** to search places, get directions,
 🎥 **Video Explanation:** [Link](https://www.linkedin.com/posts/thesurajsite_androiddevelopment-googlemapsapi-potholetracker-activity-7354080849325182976-FLB_?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD83ZU8BkjlW4U0Y7NAOgrPsPEpM7_xOF3o)  
 💻 **Repository Link:** [Link](https://github.com/thesurajsite/PotHoleTracker-GMaps-Camera)
 
+### 📌 NITA Buddy: Full Stack (Android + Golang)  
+Portal for **NIT Agartala students** to request items (food, parcels, stationery, etc.) from nearby shops/outlets. Other students nearby can accept the request, deliver it, and earn rewards through the **reward system**.  
+
+🎥 **Video Explanation:** [Link](https://www.linkedin.com/feed/update/urn:li:activity:7414523694309515265/)  
+📱 **Frontend Android Repository:** [Link](https://github.com/thesurajsite/NITA-Buddy-Android)  
+🛠️ **Backend Golang Repository:** [Link](https://github.com/thesurajsite/NITA-Buddy-Backend)
+
+## 🚀 See all projects on my [LinkedIn](http://linkedin.com/in/thesurajsite) profile or [GitHub](https://github.com/thesurajsite?tab=repositories) repositories
 
 
 ---
